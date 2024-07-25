@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://rashid.us.to.com/sitemap-index.xml
+Host: https://rashid.us.to.com
