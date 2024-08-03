@@ -5,6 +5,49 @@
         {
           "node": {
             "frontmatter": {
+              "title": "Aizoft (Amazon Ad Management)",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC0ElEQVQozyWSXWhTBxiGz8104oV2OhSvBIdBxFUUlDFB/AG9aEWYZXYiYu1q2iqmNWpTW9skVTfnapV4UUGr9WeTFq1jUpk02qHRij/9wTTHtrpoPDn5Pz/JOWm9eEbiB+/F9108vLzvJ0hKCp8/QDAUI50xUXUDTTdIxOPIskw4LBOJxAiFQoTDYSRJQpZkWvqv0PH8LtGPMv99kEiqBlpmEqGk9ipb9ndQYr9JaV03Pzp6+KHczc3uG9z3ennqe4LvsY+BpwN5+XK77wn3+x/gffSYntu32FruouTo35TUdSMU7+ukqLKdjdsb2VzqoKiijcoaF2LAT9rIEounULU0etpE0wxMc5KMMYlpTJKb4Lsxisua2XK4h6LaPxD2NFyjeHsFC+Z9xayZX7J23UZO/3KCkeERdD1D//tR/JEQakojkVRQFA1F0UkpKhnjEyPDAbZZXfzUdIfS+j8RGk62U2XdS0HBbL6YNp3vVq+ipfkYg0N+NC1DKBJFisZQ1Rww51bPQ1VNRdGm+KfPz47qZva4b7Pr2A0Ez7l29jkOsND+PV9vsrBi2XLczmYGB4dQVJ14PIkkhQnLEWLxRB6qKGr+noOK4ms859rwdP5FpesywuWO61j3VzFvzSJmL57PysJC3E2NDA8N57OLxhLIkSjJZIpYLEE8kUTT9M9udZ2R136uXGznxctX3Ov7F6HWVsPKwm+xLPyGuQVzWLrEgr3Gxvj4BIY5haKmSacNMhkz/1aGmSWbncLMTuVLCUwEaXE2cqvrOpcueBCqqqrZsH49c+YWMGPmDJZYLByqsfH82QDvg0FGR0cRAyKiKDL2ZhzxzRiBgJjXxMRbvN6H2A/aONvWypnWUwi22qPYDtiprrSyc8dOynaXc95znr0VVip+tuKoq8ftdHLc5aTRcYSmhnpaXE7aWk9z5vff+PXkCbq7uujre0Bv7z3+B9+XW5VhY5SDAAAAAElFTkSuQmCC"
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/123/49177/aizoft.png",
+                        "srcSet": "/static/123/ac6f5/aizoft.png 175w,\n/static/123/ff18b/aizoft.png 350w,\n/static/123/49177/aizoft.png 700w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/123/29fb5/aizoft.avif 175w,\n/static/123/46101/aizoft.avif 350w,\n/static/123/b016a/aizoft.avif 700w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/123/4ebdb/aizoft.webp 175w,\n/static/123/a5e1b/aizoft.webp 350w,\n/static/123/cf144/aizoft.webp 700w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 335.00000000000006
+                  }
+                }
+              },
+              "tech": ["React", "Amazon API", "MUI","Node JS","Redux"],
+              "github": null,
+              "external": "",
+              "cta": "https://aizoft.com/"
+            },
+            "html": "<p>Aizoft is a powerful tool designed to help sellers and marketers manage and optimize their Amazon product ad campaigns. With Aizoft, you can effortlessly oversee your advertising strategies, ensuring maximum visibility and profitability for your products. Our platform offers a suite of features</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
               "title": "Toysinside",
               "cover": {
                 "childImageSharp": {
