@@ -5,6 +5,17 @@
         {
           "node": {
             "frontmatter": {
+              "title": "Aizoft",
+              "tech": ["Node js", "React", "Amazon API"],
+              "github": "",
+              "external": "https://aizoft.com/"
+            },
+        "html": "<p>Aizoft is a powerful tool designed to help sellers and marketers manage and optimize their Amazon product ad campaigns</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
               "title": "IndTech",
               "tech": ["Next.js", "Tailwind CSS", "Python"],
               "github": "",
