@@ -5,49 +5,6 @@
         {
           "node": {
             "frontmatter": {
-              "title": "Toysinside",
-              "cover": {
-                "childImageSharp": {
-                  "gatsbyImageData": {
-                    "layout": "constrained",
-                    "placeholder": {
-                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB4UlEQVQoz42STU9TURCGryt/gGHjD2DrD3DrlsSNsCHR2LKqxJhiJDSpGpQ0UmIaWkUlBQMhLGRB3KjUBprwoYlASSDST7D0eunHrRV723J772N6aFpTNk4y55xMZp7MzHukYlLl63CQ9eEldqcWWQ7sEdqc5UPAy+boGppaom6GYWDUjNbd5qZpCpe++D4zeLGfdzdvszLRxdMxF97xG3h6LbikAVKhuABi8l8mrbqDjFrvsbBo5/lVK5O2Xqatd/F2jOC55GgCy0UN9UcONZUjd5Ahf5glmzxG2U+TiSuicwHcntjA3TmA576doe4n+B0WfH19PLv8EF+Hk1QoIRILP/PEvn0nGY6R2I4i7x9xHJWR91IoEVmMLYBr3k9YpC76L3TzyOZicHYSi8fNyJUHPJbucLAcEYlaVSNf+U2hWuJX5Q+6WTs3rthhZCWM89otHD02/C+meP1qnpm5afz2MV5ed6MmMmeibOyiD73h1OnndHwBQ68JgBDEOBNEdGhicJiP8jE8RzKxTvZoi1q5jKoU0Gt6S48TDWJpiMsg55odYbZgAlg/dtJp3gZneL+6RCQeplLU2AlsocTkVlED3PQGpF18qR7Sqjq5kyqlso5pnt9L41H/jA3/J9ZW8Bc7+HcIWJ46WwAAAABJRU5ErkJggg=="
-                    },
-                    "images": {
-                      "fallback": {
-                        "src": "/static/1234567/0de03/halcyon.png",
-                        "srcSet": "/static/1234567/52ed0/halcyon.png 175w,\n/static/1234567/c3120/halcyon.png 350w,\n/static/1234567/0de03/halcyon.png 700w",
-                        "sizes": "(min-width: 700px) 700px, 100vw"
-                      },
-                      "sources": [
-                        {
-                          "srcSet": "/static/1234567/30dfb/halcyon.avif 175w,\n/static/1234567/3e698/halcyon.avif 350w,\n/static/1234567/7b1c0/halcyon.avif 700w",
-                          "type": "image/avif",
-                          "sizes": "(min-width: 700px) 700px, 100vw"
-                        },
-                        {
-                          "srcSet": "/static/1234567/21ab0/halcyon.webp 175w,\n/static/1234567/ac11a/halcyon.webp 350w,\n/static/1234567/be625/halcyon.webp 700w",
-                          "type": "image/webp",
-                          "sizes": "(min-width: 700px) 700px, 100vw"
-                        }
-                      ]
-                    },
-                    "width": 700,
-                    "height": 330
-                  }
-                }
-              },
-              "tech": ["VS Code", "Sublime Text", "Atom", "iTerm2", "Hyper"],
-              "github": "https://github.com/osperb/toysinside-ecom-dashboard",
-              "external": "/",
-              "cta": null
-            },
-            "html": "<p>At TOYSINSIDE, we believe every child deserves quality educative toys and constructive playtime.</p>"
-          }
-        },
-        {
-          "node": {
-            "frontmatter": {
               "title": "Aizoft (Amazon Ad Management)",
               "cover": {
                 "childImageSharp": {
