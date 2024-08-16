@@ -1,1 +1,20 @@
-{"data":{"jobs":{"edges":[{"node":{"frontmatter":{"title":"React Developer","company":"Osperb Innovation","location":"Malappuram, India","range":"July - october 2022","url":"https://www.osperb.com/"},"html":"<ul>\n<li>Led the creation and refinement of an engaging E-commerce platform with dynamic features.</li>\n<li>Engineered and launched a customized extension for Instagram, enabling seamless integration of product catalogs and shopping functionalities.</li>\n<li>Designed and implemented a user-friendly interface for integrating WhatsApp Business API into CRM systems, facilitating efficient customer communication and management.</li>\n<li>Contributed significantly to the development of a comprehensive CRM toolkit, tailored to streamline client relationship management processes for diverse industries.</li>\n</ul>"}}]}}}
+{
+  "data": {
+    "jobs": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "React Developer",
+              "company": "Osperb Innovation",
+              "location": "Malappuram, India",
+              "range": "July - october 2022",
+              "url": "https://www.osperb.com/"
+            },
+            "html": "<ul>\n<li>Led the creation and refinement of an engaging E-commerce platform with dynamic features.</li>\n<li>Engineered and launched a customized extension for Instagram, enabling seamless integration of product catalogs and shopping functionalities.</li>\n<li>Designed and implemented a user-friendly interface for integrating WhatsApp Business API into CRM systems, facilitating efficient customer communication and management.</li>\n<li>Contributed significantly to the development of a comprehensive CRM toolkit, tailored to streamline client relationship management processes for diverse industries.</li>\n</ul>"
+          }
+        }
+      ]
+    }
+  }
+}
