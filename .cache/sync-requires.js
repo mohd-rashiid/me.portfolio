@@ -4,13 +4,13 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": preferDefault(require("/home/muhammed-rashid/Documents/Portfiliorashid/Portfilio/.cache/dev-404-page.js")),
-  "component---src-pages-404-js": preferDefault(require("/home/muhammed-rashid/Documents/Portfiliorashid/Portfilio/src/pages/404.js")),
-  "component---src-pages-archive-js": preferDefault(require("/home/muhammed-rashid/Documents/Portfiliorashid/Portfilio/src/pages/archive.js")),
-  "component---src-pages-index-js": preferDefault(require("/home/muhammed-rashid/Documents/Portfiliorashid/Portfilio/src/pages/index.js")),
-  "component---src-pages-pensieve-index-js": preferDefault(require("/home/muhammed-rashid/Documents/Portfiliorashid/Portfilio/src/pages/pensieve/index.js")),
-  "component---src-pages-pensieve-tags-js": preferDefault(require("/home/muhammed-rashid/Documents/Portfiliorashid/Portfilio/src/pages/pensieve/tags.js")),
-  "component---src-templates-post-js": preferDefault(require("/home/muhammed-rashid/Documents/Portfiliorashid/Portfilio/src/templates/post.js")),
-  "component---src-templates-tag-js": preferDefault(require("/home/muhammed-rashid/Documents/Portfiliorashid/Portfilio/src/templates/tag.js"))
+  "component---cache-dev-404-page-js": preferDefault(require("C:\\Users\\USER\\Documents\\me.portfolio\\.cache\\dev-404-page.js")),
+  "component---src-pages-404-js": preferDefault(require("C:\\Users\\USER\\Documents\\me.portfolio\\src\\pages\\404.js")),
+  "component---src-pages-archive-js": preferDefault(require("C:\\Users\\USER\\Documents\\me.portfolio\\src\\pages\\archive.js")),
+  "component---src-pages-index-js": preferDefault(require("C:\\Users\\USER\\Documents\\me.portfolio\\src\\pages\\index.js")),
+  "component---src-pages-pensieve-index-js": preferDefault(require("C:\\Users\\USER\\Documents\\me.portfolio\\src\\pages\\pensieve\\index.js")),
+  "component---src-pages-pensieve-tags-js": preferDefault(require("C:\\Users\\USER\\Documents\\me.portfolio\\src\\pages\\pensieve\\tags.js")),
+  "component---src-templates-post-js": preferDefault(require("C:\\Users\\USER\\Documents\\me.portfolio\\src\\templates\\post.js")),
+  "component---src-templates-tag-js": preferDefault(require("C:\\Users\\USER\\Documents\\me.portfolio\\src\\templates\\tag.js"))
 }
 

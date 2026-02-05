@@ -8,10 +8,22 @@
               "title": "React Developer",
               "company": "Osperb Innovation",
               "location": "Malappuram, India",
-              "range": "July - october 2022",
+              "range": "July 2022 - November 2025",
               "url": "https://www.osperb.com/"
             },
             "html": "<ul>\n<li>Led the creation and refinement of an engaging E-commerce platform with dynamic features.</li>\n<li>Engineered and launched a customized extension for Instagram, enabling seamless integration of product catalogs and shopping functionalities.</li>\n<li>Designed and implemented a user-friendly interface for integrating WhatsApp Business API into CRM systems, facilitating efficient customer communication and management.</li>\n<li>Contributed significantly to the development of a comprehensive CRM toolkit, tailored to streamline client relationship management processes for diverse industries.</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "React Developer",
+              "company": "GL INFOTECH",
+              "location": "Thrissur, Kerala",
+              "range": "November 2025 - Now",
+              "url": "https://www.glinfotech.net/"
+            },
+            "html": "<ul>\n<li> offering a client-centric approach with a seasoned team and results that speak for themselves</li>\n<li>Engineered and launched a customized extension for Instagram, enabling seamless integration of product catalogs and shopping functionalities.</li>\n<li>Led the creation and refinement of an engaging E-commerce platform with dynamic features.</li>\n<li>Contributed significantly to the development of a comprehensive CRM toolkit, tailored to streamline client relationship management processes for diverse industries.</li>\n</ul>"
           }
         }
       ]
