@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://rashid.us.to.com/sitemap-index.xml
-Host: https://rashid.us.to.com
+Sitemap: https://me-portfolio-ivory.vercel.app/sitemap-index.xml
+Host: https://me-portfolio-ivory.vercel.app
