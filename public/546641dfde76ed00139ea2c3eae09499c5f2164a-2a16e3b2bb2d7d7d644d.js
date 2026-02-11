@@ -4046,12 +4046,12 @@
               r.createElement(
                 'p',
                 null,
-                'I work as a React.js developer at Osperb Innovation, where I specialize in creating outstanding digital experiences, prioritizing accessibility and human-centered design principles. You can learn more about Osperb',
+                'I work as a React.js developer at GL INFOTECH, where I specialize in creating outstanding digital experiences, prioritizing accessibility and human-centered design principles. You can learn more about GL',
                 ' ',
                 r.createElement(
                   'a',
                   {
-                    href: 'https://osperb.com/',
+                    href: 'https://www.glinfotech.net/',
                     target: '_blank',
                     rel: 'noreferrer',
                     style: { color: '#fffff' },

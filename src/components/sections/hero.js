@@ -65,10 +65,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I work as a React.js developer at Osperb Innovation, where I specialize in creating
+        I work as a React.js developer at  GL INFOTECH, where I specialize in creating
         outstanding digital experiences, prioritizing accessibility and human-centered design
-        principles. You can learn more about Osperb{' '}
-        <a href="https://osperb.com/" target="_blank" rel="noreferrer" style={{ color: '#fffff' }}>
+        principles. You can learn more about GL{' '}
+        <a href="https://www.glinfotech.net/" target="_blank" rel="noreferrer" style={{ color: '#fffff' }}>
           &nbsp; here
         </a>
         .
